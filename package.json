@@ -1,0 +1,15 @@
+{
+  "name": "mynpmtest6712cn",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sxl-Tiger/mytestnpm.git"
+  },
+  "author": "sxl6712cn",
+  "license": "ISC",
+  "description": ""
+}
